@@ -1,0 +1,159 @@
+CompanyName,Brand,EV ModelName,VehicleType,VehicleCMVRCategory,IncentiveAmountInINR,Range,Speed,Acceleration,Warranty,EnergyConsumption,BatteryTechnology,BatteryCapacity,BatteryCycles
+AltigreenPropulsionLabs Pvt Ltd,Altigreen,NEEV,ThreeWheeler ( e-3W,L5N,75000,117,53.4,0.65,3,8.1,Lithium ionLiFeP04(Lithium Ironphosphate),7.7,2000
+AltigreenPropulsionLabs Pvt Ltd,Altigreen,NEEV HD,ThreeWheeler ( e-3W,L5N,90000,151,53.7,0.99,3,8.7,Li ion batterybased onLiFePO4(Lithium IonPhosphate),11.1,2000
+AltigreenPropulsionLabs Pvt Ltd,Altigreen,NEEV LR,ThreeWheeler ( e-3W,L5N,85000,151,53.7,0.99,3,8.7,Li ion batterybased onLiFePO4(Lithium IonPhosphate),11.1,2000
+AltigreenPropulsionLabs Pvt Ltd,Altigreen,NEEV HDx,ThreeWheeler ( e-3W,L5N,92000,160,54,0.95,3,8,Li ion batterybased onLiFePO4,11,2000
+AmpereVehiclesPrivateLimited,Ampere,ZEAL,Two Wheeler( e-2W,L1,18000,108,41.6,0.65,3,2.26,LI ion NCM,1.8,1000
+AmpereVehiclesPrivateLimited,Ampere,Magnus,Two Wheeler( e-2W,L1,18000,90,48,0.65,3,2.5,Lithium ion,1.8,1000
+AmpereVehiclesPrivateLimited,Ampere,Zeal VX1,Two Wheeler( e-2W,L1,19600,84,41.6,0.65,3,2.47,Lithium ion,1.96,1000
+AmpereVehiclesPrivateLimited,Ampere,ZEAL CA,Two Wheeler( e-2W,L1,18000,90,42,0.65,1,2.52,Lithium NickelManganeseCobalt Oxide,1.8,1000
+AmpereVehiclesPrivateLimited,Ampere,ZEAL EX,Two Wheeler( e-2W,L1,34500,124,44.3,0.99,3,2.6,Lithium NickelManganeseCobalt Oxide,2.3,1000
+AmpereVehiclesPrivateLimited,Ampere,MAGNUS EX,Two Wheeler( e-2W,L1,34500,120,46.4,0.86,3,2.7,Lithium NickelManganeseCobalt oxide,2.3,1000
+AmpereVehiclesPrivateLimited,Ampere,ZEAL CA EX,Two Wheeler( e-2W,L1,34500,94,44.3,0.99,3,3,Lithium NickelManganeseCobalt oxide,2.3,1000
+Ather EnergyPvt. Ltd.,Ather,ATHER 450,Two Wheeler( e-2W,L2,27000,105,57.7,1.6,3,6.38,Lithium ion,2.7,1000
+Ather EnergyPvt. Ltd.,Ather,**Ather450,Two Wheeler( e-2W,L2,26732,105,48,0.65,3,6.22,Lithium ion,2.7,1000
+Ather EnergyPvt. Ltd.,Ather,Ather 450 X,Two Wheeler( e-2W,L2,29000,117,78.3,1.87,3,4.1,Li ion battery(NickelManganeseCobalt),2.9,1000
+Atul Auto,Atul Auto,Atul Elite+,ThreeWheeler ( e-3W,e-rickshaw,37000,116,0,0,3,4.9,Lithium ion(Lithium Ironphosphate),3.7,2000
+Atul Auto,Atul Auto,Atul Elite+Cargo,ThreeWheeler ( e-3W,e-cart,37000,118,0,0,3,4.6,Lithium ion(Lithium Ironphosphate),3.7,2000
+Avon CyclesLtd,Avon Cycles,GREENWAYHP DX,ThreeWheeler ( e-3W,e-rickshaw,41231,91.72,0,0,3,5.38,Lithium ion(Lithium Ironphosphate),4.4,2000
+Avon CyclesLtd,Avon Cycles,ERICK 306LI,ThreeWheeler ( e-3W,e-rickshaw,41231,91.72,0,0,3,5.38,Lithium ion(Lithium Ironphosphate),4.4,2000
+Bajaj AutoLtd,Bajaj Auto,CHETAK2403Premium,Two Wheeler( e-2W,L2,45000,154,61.1,1.48,3,2.8,Lithium NickelCobaltAluminum oxide,3,1000
+Bajaj AutoLtd,Bajaj Auto,CHETAK2403 Urbane,Two Wheeler( e-2W,L2,45000,154,61.1,1.48,3,2.8,Lithium NickelCobaltAluminum oxide,3,1000
+Bajaj AutoLtd,Bajaj Auto,Chetak 2413Premium,Two Wheeler( e-2W,L2,43500,108,61.7,2.1,3,3.1,Lithium NickelCobaltAluminum oxide,2.9,1000
+BalanEngineeringPrivateLimited,BalanEngineering,SWACHHRATH,ThreeWheeler ( e-3W,e-cart,47000,143,0,0,3,4.32,Lithium IonFerrophosphate,5.1,2000
+Benling IndiaEnergy AndTechnologyPrivateLimited,Benling,Aura,Two Wheeler( e-2W,L1,23300,82.11,40,0.65,3,2.54,NickelManganeseCobalt,2.9,1500
+Best WayAgenciesPrivateLimited,Best Way,ele ex,ThreeWheeler ( e-3W,e-rickshaw,37000,126.81,0,0,3,4.44,Lithium-Iron-Phosphate,4.4,2000
+Best WayAgenciesPrivateLimited,ele ex cargo,ele ex cargo,ThreeWheeler ( e-3W,e-cart,37000,126.81,0,0,3,4.44,Lithium IronPhosphate,4.3,2000
+BoomaInnovativeTransportSolutions PvtLtd,Booma,ANAV1200,Two Wheeler( e-2W,L1,30000,80,40,0.65,3,3.6,Lithium-Ion,2,1000
+ChampionPolyplast,ChampionPolyplast,SAARTHISHAVAK EAUTO,ThreeWheeler ( e-3W,L5M,66000,94.18,40,0.65,3,6.23,Lithium ion,6.6,2000
+ChampionPolyplast,ChampionPolyplast,SAARTHISHAVAK DLXEAUTO,ThreeWheeler ( e-3W,L5M,66000,94.18,40,0.65,3,6.23,Lithium ion,6.6,2000
+ChampionPolyplast,ChampionPolyplast,SAARTHI F2,ThreeWheeler ( e-3W,e-rickshaw,37680,105.7,0,0,3,7.12,Lithium IronPhosphate,4.4,2000
+ContinentalEnginesPrivateLimited,ContinentalEngines,Baxy CargoSuper King-EV,ThreeWheeler ( e-3W,L5N,75000,115,51.3,0.67,3,7,NickelManganeseCobalt,7.5,1000
+Dilli ElectricAuto Pvt Ltd,Dilli ElectricAuto,CITYLIFE LIPRIMA,ThreeWheeler ( e-3W,e-rickshaw,35000,96.5,23,28,3,4.1,Lithium ion(Lithium Ironphosphate),4.4,2000
+Dilli ElectricAuto Pvt Ltd,Dilli ElectricAuto,CITYLIFE LIMAX,ThreeWheeler ( e-3W,e-cart,36000,131.91,0,0,3,4.74,Lithium ion(Lithium Ironphosphate),4.4,2000
+EnergyElectricVehicles,EnergyElectricVehicles,PremiumUdaan,ThreeWheeler ( e-3W,e-rickshaw,37000,108.37,0,0,3,5.37,Lithium IronPhosphate,4.4,2000
+EtrioAutomobilesPrivate Ltd.,EtrioAutomobiles,Touro MaxLoader,ThreeWheeler ( e-3W,L5N,73500,114.4,40,0.65,3,9.54,Lithium Ironphosphate,7.7,3000
+EtrioAutomobilesPrivate Ltd.,EtrioAutomobiles,Touro Miniloader,ThreeWheeler ( e-3W,e-cart,38300,105,0,0,3,4.83,Lithium FerroPhosphate,3.83,3000
+EtrioAutomobilesPrivate Ltd.,EtrioAutomobiles,Touro MiniPassenger,ThreeWheeler ( e-3W,e-rickshaw,38300,105,0,0,3,4.83,Lithium FerroPhosphate,3.83,3000
+Euler MotorsPvt Ltd,Euler Motors,HiLoad DV,ThreeWheeler ( e-3W,L5N,96000,150,43.5,0.67,3,7.7,Nickel CobaltAluminum,11.5,2000
+Euler MotorsPvt Ltd,Euler Motors,HiLoad PV,ThreeWheeler ( e-3W,L5N,94000,129,43.5,0.67,3,9.6,Nickel CobaltAluminum,11.5,2000
+GoenkaElectricMotorVehicles Pvt.,GoenkaElectricMotor,GoenkaElectricMotor,ThreeWheeler ( e-3W,e-rickshaw,37000,83.7,17.6,0,3,4.46,Lithium ion(Lithium Ironphosphate),3.7,1500
+Prince Pro X,Prince Pro X,Prince Pro X,ThreeWheeler ( e-3W,e-rickshaw,33025,109,17.6,0,3,4.31,Lithium ion(Lithium Ironphosphate),4.3,2000
+GoenkaCompany ElectricNameMotorVehicles Pvt.,Goenka BrandElectricMotor,Samrat Pro X,ThreeWheeler ( e-3W,e-cart,32865,131.29,20.12,0,3,4.22,Lithium ion(Lithium Ironphosphate),4.3,2000
+Grd Motors,Grd Motors,DAVRATHEXPRESS,ThreeWheeler ( e-3W,e-rickshaw,35000,111.6,0,0,3,6.99,Lithium-Ion(Lithium Ironphosphate),4.4,2000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,Photon LP,Two Wheeler( e-2W,L1,18700,91,51,2.6,3,2.53,Lithium ion,1.7,1100
+Hero ElectricVehiclesPrivateLimited,Hero Electric,NYX HS 500ER,Two Wheeler( e-2W,L1,46050,127,45,2.6,3,3.01,Lithium ion,2.9,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,OPTIMA HS500 ER,Two Wheeler( e-2W,L1,46050,113,47,2.6,3,3.1,Lithium ion,2.9,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,**OPTIMAPRO,Two Wheeler( e-2W,L1,30300,95,49.5,1.01,3,3.13,Li ion battery(Lithium NickelManganeseCobalt oxide),2.1,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,NYX Pro,Two Wheeler( e-2W,L1,18747,94,48.1,0.73,3,2.9,Lithium ion(Lithium Ironphosphate),2.15,1100
+Hero ElectricVehiclesPrivateLimited,Hero Electric,OPTIMA e5,Two Wheeler( e-2W,L1,23100,82,47.6,0.71,3,3.25,Lithium ion(Lithium Ironphosphate),1.54,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,NYX HX,Two Wheeler( e-2W,L1,29660,212,43.1,1,3,3.58,Lithium ion(Lithium Ironphosphate),4.6,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,NYX e5,Two Wheeler( e-2W,L1,23100,82,44.3,0.95,3,3.18,Lithium ion(Lithium Ironphosphate),1.54,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,N61a,Two Wheeler( e-2W,L1,21700,92,45,0.98,3,2.95,Li ion battery(NickelManganeseCobalt),2.17,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,NYX N23a,Two Wheeler( e-2W,L1,19000,92,47,0.86,3,3.1,Li ion battery(Nickel CobaltAluminum),1.9,1000
+Hero ElectricVehiclesPrivateLimited,Hero Electric,OPTIMA PRO2.02 kwh,Two Wheeler( e-2W,L1,30300,98,46.3,0.81,3,3,NickelManganeseCobalt,2.02,1000
+J.s. Auto PvtLtd.,J.s. Auto PvtLtd.,JSA ERICKSHAW LI,ThreeWheeler ( e-3W,e-rickshaw,33600,115,0,0,3,5.67,Lithium IronPhosphate,4.1,3500
+J.s. Auto PvtLtd.,J.s. Auto PvtLtd.,JMT1000HS,Two Wheeler( e-2W,L1,19754,90.38,40,0.65,3,2.89,Nickel-Manganese-Cobalt,2,1500
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,JMT 1000 HSCARGO,Two Wheeler( e-2W,L1,19720,88.33,51.93,0.65,3,2.77,Lithium Ionbattery (NickelManganeseCobalt),2,1500
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,JMT 100048V,Two Wheeler( e-2W,L1,22000,83,40,0.65,3,3.34,Lithium IronNMC,2.2,3000
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,DREAM 1.2PV,ThreeWheeler ( e-3W,e-rickshaw,38746,97.8,0,0,3,5.9,Lithium Ironphosphate,4.3,2000
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,DREAM 1.2CV,ThreeWheeler ( e-3W,e-cart,38746,97.8,0,0,3,5.9,Lithium Ironphosphate,4.3,2000
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,DREAM 1.2DV,ThreeWheeler ( e-3W,e-cart,40164,97.8,0,0,3,5.9,Lithium Ironphosphate,4.3,2000
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,JMT 1000 HSPLUS,Two Wheeler( e-2W,L1,60000,156,42,0.65,3,3.23,Lithium-Ion,4.04,1001
+Jitendra NewEv Tech Pvt.Ltd.,Jitendra NewEv Tech,JMT 1000 3K,Two Wheeler( e-2W,L1,48000,117,40,0.65,3,3.2,Lithium-Ion,3.2,1001
+KabiraMobility Llp,KabiraMobility,Intercity 300,Two Wheeler( e-2W,L1,42300,134,58.4,0.99,3,2.7,NickelManganeseCobalt,2.82,1000
+KabiraMobility Llp,KabiraMobility,Intercity 350,Two Wheeler( e-2W,L1,42300,134,52.4,1.5,3,2.7,NickelManganeseCobalt,2.82,1000
+KabiraMobility Llp,KabiraMobility,Hermes 75,Two Wheeler( e-2W,L1,42300,122,52,1.7,3,2.9,NickelManganeseCobalt,2.82,1000
+Keto MotorsPrivateLimited,Keto Motors,BULKe plus2.0,ThreeWheeler ( e-3W,L5N,99540,187.69,40,0.65,3,7.16,Lithium ion(Lithium Ironphosphate),12.6,1500
+BULKe,BULKe,BULKe,ThreeWheeler ( e-3W,L5N,96000,187.69,40,0.65,3,7.17,Lithium ion(Lithium Ironphosphate),12.6,1500
+BULKe,BULKe,BULKe Plus2.1,ThreeWheeler ( e-3W,L5N,91637,148.1,40,0.65,3,8.66,Lithium Ion(Lithium FerroPhosphate),9.8,1500
+BULKe,BULKe,BULKe 1.0,ThreeWheeler ( e-3W,L5N,89642,148.1,40,0.65,3,8.66,Lithium FerroPhosphate,9.8,1500
+TriLux,TriLux,TriLux,ThreeWheeler ( e-3W,L5M,79821,148.1,40,0.65,3,8.66,Lithium Ion(Lithium FerroPhosphate),9.8,1500
+KhalsaAgencies,KhalsaAgencies,Khalsa Grand,ThreeWheeler ( e-3W,e-rickshaw,37000,120.13,0,0,3,4.72,Lithium ion(Lithium Ironphosphate),4.4,2000
+Kinetic GreenEnergy &PowerSolutions Ltd,Kinetic,**KineticSAFARSMART LFP,ThreeWheeler ( e-3W,e-rickshaw,37000,112,0,0,3,5.65,Lithium ion,3.7,2000
+Kinetic GreenEnergy &PowerSolutions Ltd,Kinetic,SAFARSHAKTI LFP,ThreeWheeler ( e-3W,e-cart,41000,100,0,0,3,7.9,Lithium ion,4.1,1500
+Kinetic GreenEnergy &PowerSolutions Ltd,Kinetic,KINETICSAFARSMART,ThreeWheeler ( e-3W,e-rickshaw,41000,126,0,0,3,7.7,Lithium IronPhosphate LiFePO4,4.1,1500
+Kinetic GreenEnergy &PowerSolutions Ltd,Kinetic,**KINETICSAFAR STAR400,ThreeWheeler ( e-3W,L5N,42000,83.5,42.6,0.68,3,9.83,Li ion battery(NickelManganeseCobalt),4.2,2000
+Kinetic GreenEnergy &PowerSolutions Ltd,Kinetic,KINETICSAFARJUMBOPICKUP,ThreeWheeler ( e-3W,L5N,82000,142,45.4,0.7,3,8.3,Li ion battery(Lithium IronPhosphate),8.2,2000
+Lectrix EvPvt. ltd.,Lectrix Ev,ecity zipD40,Two Wheeler( e-2W,L1,30000,89,40,0.65,3,3.65,Lithium Ion,2,1000
+Lectrix EvPvt. ltd.,Lectrix Ev,ecity zipC40,Two Wheeler( e-2W,L1,30000,89,40,0.65,3,3.65,Lithium Ion,2,1000
+Li-ionsElektrikSolutions PvtLtd,Li-ionsElektrik,**SPOCK,Two Wheeler( e-2W,L1,27465,107.38,40,0.65,3,4.03,Lithium ion,2.9,1500
+Lohia AutoIndustries,Lohia Auto,NARAIN i,ThreeWheeler ( e-3W,e-rickshaw,37695,112.91,0,0,3,4.51,Lithium ion(Lithium Ironphosphate),3.8,1000
+Lohia AutoIndustries,Lohia Auto,NARAIN iCE,ThreeWheeler ( e-3W,e-rickshaw,38000,112.91,0,0,3,4.51,Lithium ion(Lithium Ironphosphate),3.8,1000
+Lohia AutoIndustries,Lohia Auto,Humsafar iB,ThreeWheeler ( e-3W,L5N,76000,111,40,0.65,3,8.53,Lithium ion(Lithium Ironphosphate),7.6,1000
+Lohia AutoIndustries,Lohia Auto,**e-Verito C2,Four Wheeler( e-4W,M1,159000,143,80,1.04,3,14.9,Lithium ion,15.9,2000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**e-Verito C4,Four Wheeler( e-4W,M1,159000,143,80,1.04,3,14.9,Lithium ion,15.9,2000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**e-Verito C6,Four Wheeler( e-4W,M1,159000,143,80,1.04,3,14.9,Lithium ion,15.9,2000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**e-Verito D2,Four Wheeler( e-4W,M1,212000,181,80,1.04,3,14.6,Lithium ion,21.2,2000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**e-Verito D4,Four Wheeler( e-4W,M1,212000,181,80,1.04,3,14.6,Lithium ion,21.2,2000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**e-Verito D6,Four Wheeler( e-4W,M1,212000,181,80,1.04,3,14.6,Lithium ion,21.2,2000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**Mahindrae-SuproCargo Van,Four Wheeler( e-4W,N1,161000,134,60,1.04,3,14.2,Lithium ion,16.1,5000
+Mahindra &Mahindra Ltd,Mahindra &Mahindra,**Mahindrae-SuproCargo VanVX,Four Wheeler( e-4W,N1,161000,134,60,1.04,3,14.2,Lithium ion,16.1,5000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo YaariHRT,ThreeWheeler ( e-3W,e-rickshaw,37000,129,0,0,3,3.41,Lithium ion,3.7,2000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo HRT,ThreeWheeler ( e-3W,L5M,68923,171,40,0.65,3,5.8,Lithium ion,7.4,2000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo SFT,ThreeWheeler ( e-3W,L5M,66523,171,40,0.65,3,5.8,Lithium ion,7.4,2000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo YaariSFT,ThreeWheeler ( e-3W,e-rickshaw,37000,129,0,0,3,3.41,Lithium ion,3.7,2000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo Zor,ThreeWheeler ( e-3W,L5N,74000,125,50.2,0.76,3,6.44,Lithium ion(Lithium Ironphosphate),7.4,2000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo Zor FB,ThreeWheeler ( e-3W,L5N,74000,125,50.2,0.76,3,6.44,Lithium ion(Lithium Ironphosphate),7.4,2000
+MahindraElectricMobilityLimited,MahindraElectricMobility,Treo Zor DV,ThreeWheeler ( e-3W,L5N,74000,118,50.2,0.76,3,6.75,Lithium ion(Lithium Ironphosphate),7.4,2000
+Microcon I2iPrivateLimited,Microcon I2i,Anav12,Two Wheeler( e-2W,L1,30000,81.98,40,0.65,3,3.46,Lithium Ion,2,1000
+Mlr Auto Ltd,Mlr Auto,TEJA HANDYCARGONORMALDECK EV,ThreeWheeler ( e-3W,L5N,75000,133,46.2,1.6,3,6.34,LIFe PO4(Lithium Ironphosphate),7.5,2000
+OkinawaAutotechPrivateLimited,OkinawaAutotech,RIDGE,Two Wheeler( e-2W,L1,17000,84,41,0.65,3,3.6,Lithium ion,1.7,2000
+OkinawaAutotechPrivateLimited,OkinawaAutotech,**iPRAISE,Two Wheeler( e-2W,L1,26000,159,48.4,0.65,3,3.5,Lithium ion,2.6,1100
+OkinawaAutotechPrivateLimited,OkinawaAutotech,Praise Pro,Two Wheeler( e-2W,L1,19000,88,52,0.65,3,2.75,Lithium ion,1.9,1000
+OkinawaAutotechPrivateLimited,OkinawaAutotech,iPRAISE,Two Wheeler( e-2W,L1,30000,139,51.2,0.65,3,2.72,Lithium ion,3.3,1000
+Ola ElectricTechnologiesPrivateLimited,Ola Electric,Ola S1E2WAC04,Two Wheeler( e-2W,L2,44700,141,75.3,1.32,3,3.3,NickelManganeseCobalt Oxide,2.98,2000
+Ola ElectricTechnologiesPrivateLimited,Ola Electric,Ola S1 ProE2W AB04,Two Wheeler( e-2W,L2,59550,144,78.6,1.18,3,3.4,NickelManganeseCobalt Oxide,3.97,2000
+Om BalajeeAutomobileIndia Pvt Ltd,Om BalajeeAutomobile,e VIKAS,ThreeWheeler ( e-3W,L5M,81800,102.96,40,0.65,3,9.87,Lithium-Ion(Lithium Ferrophosphate),9.6,1500
+Om BalajeeAutomobileIndia Pvt Ltd,Om BalajeeAutomobile,e VIKASFERRI,ThreeWheeler ( e-3W,L5N,81800,102.96,40,0.65,3,9.87,Lithium FerroPhosphate,9.6,1500
+Omega SeikiPvt Ltd,Omega Seiki,RAGE,ThreeWheeler ( e-3W,L5N,75000,89.32,40,0.65,3,8.34,Lithium ion(Lithium Ironphosphate),7.5,1000
+Omega SeikiPvt Ltd,Omega Seiki,Ape’ ECity,ThreeWheeler ( e-3W,L5M,42000,102,43.6,0.95,3,8.2,Li ion battery(NickelManganeseCobalt),4.2,2000
+VehiclesPrivateLimited,Piaggio,Ape E XtraLX WithPlatform,ThreeWheeler ( e-3W,L5N,46500,87,43.7,0.67,3,6.78,NickelManganeseCobaltChemistry,4.65,2000
+VehiclesPrivateLimited,Ape EXtraLX PU,Ape EXtraLX PU,ThreeWheeler ( e-3W,L5N,47000,87,43.7,0.65,3,6.78,NickelManganeseCobaltChemistry,4.7,2000
+VehiclesPrivateLimited,Ape E XtraLX DAC,Ape E XtraLX DAC,ThreeWheeler ( e-3W,L5N,47000,85,43,0.67,3,5.9,NickelManganeseCobaltChemistry,4.7,2000
+VehiclesPrivateLimited,Ape E XtraFX DAC,Ape E XtraFX DAC,ThreeWheeler ( e-3W,L5N,76803,148,45,0.68,3,6.17,NickelManganeseCobaltChemistry,8.5,1000
+VehiclesPrivateLimited,Ape’ E XtraEX WithPlatform,Ape’ E XtraEX WithPlatform,ThreeWheeler ( e-3W,L5N,76000,134,43.5,0.71,3,9.89,Li ion battery(Nickel CobaltAluminum),7.6,1000
+RevoltIntellicorpPvt. Ltd.,Revolt,**RV300,Two Wheeler( e-2W,L1,27000,102,62.2,0.65,3,3.09,Lithium ion,2.7,1000
+RevoltIntellicorpPvt. Ltd.,RV400,RV400,Two Wheeler( e-2W,L1,30000,147,40.8,0.65,3,2.59,Lithium ion,3.2,1000
+Saera ElectricAuto Pvt. Ltd.,Saera ElectricAuto,Mayuri Star,ThreeWheeler ( e-3W,e-rickshaw,35800,92.96,0,0,3,6.39,Lithium ion(Lithium Ironphosphate),4,1000
+Saera ElectricAuto Pvt. Ltd.,MAYURI DV,MAYURI DV,ThreeWheeler ( e-3W,e-cart,37400,82.74,0,0,3,6.38,Lithium IronPhosphate,4,1000
+ScootersIndia Limited,ScootersIndia,VIKRAMVidyutPassengerCarrier6P1D,ThreeWheeler ( e-3W,L5M,108000,168.7,40,0.65,3,6.29,Lithium ion(Lithium Ironphosphate),16.2,2000
+ShiganEvoltzLimited,ShiganEvoltz,Bull CartSuper,ThreeWheeler ( e-3W,L5N,96000,144.21,40,0.65,3,5.09,Lithium ion(Lithium Ironphosphate),9.6,3500
+ShiganEvoltzLimited,Green CartSuper,Green CartSuper,ThreeWheeler ( e-3W,e-cart,51000,120.56,0,0,3,6.05,Lithium IronPhosphate,5.1,2000
+ShiganEvoltzLimited,Green RickSuper,Green RickSuper,ThreeWheeler ( e-3W,e-rickshaw,51000,115.6,0,0,3,5.83,Lithium IronPhosphate,5.1,2000
+Sks Trade,Sks Trade,ARZOO LI,ThreeWheeler ( e-3W,e-rickshaw,39000,101.6,0,0,3,6.22,Lithium FerroPhosphate,4.4,2000
+Sks Trade,Sks Trade,ARZOO ECLI,ThreeWheeler ( e-3W,e-cart,39000,123,0,0,3,4.35,Lithium FerroPhosphate,4.4,2000
+SpeegoVehicles Co.Pvt. Ltd.,SpeegoVehicles,**SPEEGODLX Li,ThreeWheeler ( e-3W,e-rickshaw,35000,112.5,0,0,3,4.8,Lithium ion(Lithium Ironphosphate),4.4,2000
+Tata MotorsPassengerVehiclesLimited(formerlyknown asTata MotorsLimited),Tata Motors,**TATATIGOR EVXE,Four Wheeler( e-4W,M1,162000,140,80,1.04,3,13.3,Lithium ion,16.2,2000
+**TATATIGOR EVXM,**TATATIGOR EVXM,**TATATIGOR EVXM,Four Wheeler( e-4W,M1,162000,140,80,1.04,3,13.3,Lithium ion,16.2,2000
+**TATATIGOR EVXT,**TATATIGOR EVXT,**TATATIGOR EVXT,Four Wheeler( e-4W,M1,162000,140,80,1.04,3,13.3,Lithium ion,16.2,2000
+TATA TIGOREVXE,TATA TIGOREVXE,TATA TIGOREVXE,Four Wheeler( e-4W,M1,215000,213,80,1.04,3,11.8,Lithium ion,21.5,2000
+TATA TIGOREVXM,TATA TIGOREVXM,TATA TIGOREVXM,Four Wheeler( e-4W,M1,215000,213,80,1.04,3,11.8,Lithium ion,21.5,2000
+TATA TIGOREVXT,TATA TIGOREVXT,TATA TIGOREVXT,Four Wheeler( e-4W,M1,215000,213,80,1.04,3,11.8,Lithium ion,21.5,2000
+TATA NEXONEV XM,TATA NEXONEV XM,TATA NEXONEV XM,Four Wheeler( e-4W,M1,279800,312,80,1.7,3,10.6,Lithium IronPhosphateLiFePO4,30.2,1200
+TATA NEXONEV XZ,TATA NEXONEV XZ,TATA NEXONEV XZ,Four Wheeler( e-4W,M1,299800,312,80,1.7,3,10.6,Lithium IronPhosphateLiFePO4,30.2,1200
+TATA XPREST EV XE,TATA XPREST EV XE,TATA XPREST EV XE,Four Wheeler( e-4W,M1,215000,213,80.7,1.55,3,11.8,Lithium Iron,21.5,2000
+TATA XPREST EV XM,TATA XPREST EV XM,TATA XPREST EV XM,Four Wheeler( e-4W,M1,215000,213,80.7,1.55,3,11.8,Lithium Iron,21.5,2000
+TATA XPREST EV XT,TATA XPREST EV XT,TATA XPREST EV XT,Four Wheeler( e-4W,M1,215000,213,80.7,1.55,3,11.8,Lithium Iron,21.5,2000
+TATA NEXONEV XZDK,TATA NEXONEV XZDK,TATA NEXONEV XZDK,Four Wheeler( e-4W,M1,302000,310,78.2,1.71,3,12,Lithium Ion IronPhosphate,30.2,1200
+Tata Tigor EVXZ,Tata Tigor EVXZ,Tata Tigor EVXZ,Four Wheeler( e-4W,M1,259800,314,116.5,1.4,3,11,Lithium Ion IronPhosphate,26,1200
+Tata Tigor EVXE26 kWh),Tata Tigor EVXE26 kWh),Tata Tigor EVXE26 kWh),Four Wheeler( e-4W,M1,239800,314,116.5,1.4,3,11,Lithium Ion IronPhosphate,26,1200
+Tata Tigor EVXM26 kWh),Tata Tigor EVXM26 kWh),Tata Tigor EVXM26 kWh),Four Wheeler( e-4W,M1,249800,314,116.5,1.4,3,11,Lithium Ion IronPhosphate,26,1200
+ThukralElectric BikesPvt Ltd,Four Wheeler( e-4W,THUKRAL ErlLi,ThreeWheeler ( e-3W,e-rickshaw,32200,99.57,0,0,3,4.21,Lithium IronPhosphate,3.5,2000
+ThukralElectric BikesPvt Ltd,Four Wheeler( e-4W,THUKRAL TMDLX Li,ThreeWheeler ( e-3W,e-rickshaw,35000,101.79,0,0,3,6.74,Lithium ion(Lithium Ironphosphate),3.5,2000
+Tunwal Emotors Pvt.Ltd.,Tunwal Emotors,T 133,Two Wheeler( e-2W,L1,24000,99,44.9,1.29,3,2.6,Li ion battery(Lithium NickelManganeseCobalt oxide),2.4,1200
+Tunwal Emotors Pvt.Ltd.,Tunwal Emotors,Storm ZXPlus,Two Wheeler( e-2W,L1,24000,99,44.9,1.29,3,2.6,Li ion battery(NickelManganeseCobalt oxide),2.4,1000
+Tunwal Emotors Pvt.Ltd.,Tunwal Emotors,TEM G33,Two Wheeler( e-2W,L1,24000,99,44.9,1.29,3,2.6,Li ion battery(NickelManganeseCobalt oxide),2.4,1000
+Tunwal Emotors Pvt.Ltd.,Tunwal Emotors,RomaS,Two Wheeler( e-2W,L1,24000,99,44.9,1.29,3,2.6,Li ion battery(NickelManganeseCobalt oxide),2.4,1000
+Tunwal Emotors Pvt.Ltd.,Tunwal Emotors,TZ 3.3,Two Wheeler( e-2W,L1,28800,107,56.7,1.01,3,3.55,NMC (NickelManganeseCobalt),2.9,1000
+Tvs MotorCompanyLimited,Tvs Motor,TVS iQUBEELECTRIC,Two Wheeler( e-2W,L2,22500,86.1,40,0.65,3,5.15,NickelManganeseCobalt,2.25,1000
+U P TelelinksLtd,U P Telelinks,power Li-ion,ThreeWheeler ( e-3W,e-rickshaw,37000,99.68,0,0,3,5,Lithium ion(Lithium Ironphosphate),4.4,2000
+U P TelelinksLtd,U P Telelinks,Power Li-IonDV,ThreeWheeler ( e-3W,e-cart,38200,99.68,0,0,3,5,Lithium-Ion(Lithium Ironphosphate),4.4,2000
+U P TelelinksLtd,U P Telelinks,Power Li-IonFB,ThreeWheeler ( e-3W,e-cart,36600,99.68,0,0,3,5,Lithium Ironphosphate,4.4,2000
+U P TelelinksLtd,U P Telelinks,Power Li-IonCV,ThreeWheeler ( e-3W,e-cart,37000,99.68,0,0,3,5,Lithium Ironphosphate,4.4,2000
+VictoryElectricVehicles,Victory,VICTORYVIKRANT,ThreeWheeler ( e-3W,e-rickshaw,41600,136.46,0,0,3,4.55,Lithium IronPhosphate,5.2,2000
+VICTORY,VICTORY,VICTORY,ThreeWheeler ( e-3W,e-rickshaw,38976,136.46,0,0,3,4.55,Lithium IronPhosphate,5.2,2000
+InternationalPrivateLimited,Vehicles,VICTORYBHIM,ThreeWheeler ( e-3W,e-cart,38976,136.46,0,0,3,4.55,Lithium ion,5.2,2000
+InternationalPrivateLimited,Vehicles,VICTORYBHIMCLEANER,ThreeWheeler ( e-3W,e-cart,42976,136.46,0,0,3,4.55,Lithium ion,5.2,2000
+Y C ElectricVehicle,Y C ElectricVehicle,YATRI SUPER,ThreeWheeler ( e-3W,e-rickshaw,34000,113.2,0,0,3,4.62,Nickel-Manganese-Cobalt,4.3,2000
+YATRI CART,YATRI CART,YATRI CART,ThreeWheeler ( e-3W,e-cart,37000,110.78,0,0,3,4.79,Lithium ion(Lithium Ironphosphate),4.4,2000
